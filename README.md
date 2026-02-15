@@ -1,6 +1,3 @@
-# Machine Learning and Pattern Recognition  
-## Lab 5 – Spring Semester 2026
-
 ## Aim
 The aim of this lab is to detect faces in an image, extract simple color features from the detected faces, cluster them using K-Means, and classify a separate template image based on those clusters.
 
